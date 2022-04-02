@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
-Just trying some stuff to learn the basics &amp; algorithms behind
+Rock - Paper -Scissors game
 It can get improved by playing with the CSS and cleaning the code.
